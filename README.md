@@ -30,17 +30,17 @@
 
 \### Скриншот 1: Результат работы программы
 
-!\[Результат работы](docs/screenshot1.png)
+!\[Результат работы](lab7_toksar\docs/screenshot1.png)
 
 
 
 \### Скриншот 2: XML-комментарии в коде
 
-!\[XML-комментарии](docs/screenshot2.png)
+!\[XML-комментарии](lab7_toksar\docs/screenshot2.png)
 
 
 
 \### Скриншот 3: Среда разработки
 
-!\[Среда разработки](docs/screenshot3.png)
+!\[Среда разработки](lab7_toksar\docs/screenshot3.png)
 
