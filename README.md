@@ -36,7 +36,7 @@
 
 \### Скриншот 2: XML-комментарии в коде
 
-!\[XML-комментарии](docs/screenshot2.png)
+!\[XML-комментарии](screenshot2.png)
 
 
 
